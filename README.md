@@ -1,23 +1,20 @@
-# Automated Bots - Easy Apply Jobs Bot 🤖 - https://www.automated-bots.com/
 
 ![linkedineasyapplygif](https://user-images.githubusercontent.com/34207598/128695728-6efcb457-0f75-42e2-987a-f7a0c239a235.gif)
 A python bot to apply all Linkedin Easy Apply jobs based on your preferences.
 
-## Please be aware that there are forked/similar looking versions of this bot using scam, phishing donation links. While purchasing make sure you are on www.automated-bots.com page or just like below page have check our logo on each crypto payment site,
 
-![Copyright image](https://github.com/wodsuz/EasyApplyJobsBot/assets/34207598/ea8ba3e2-1bed-4d80-ae20-9e96d1f5c09f)
+![Copyright image](https://github.com/lionking0105/EasyApplyJobsBot/assets/34207598/ea8ba3e2-1bed-4d80-ae20-9e96d1f5c09f)
 
-## This is the free version of the bot, you can fork & modifty it by crediting us and without changing the donation links. To use the pro version you can visit our site www.automated-bots.com
 
 # Demo
 
 Easy Apply Jobs Bot Pro version running on Linux Firefox Browser
 
-https://github.com/wodsuz/EasyApplyJobsBot/assets/34207598/0de30c7e-a8ab-4fc8-8609-f401e13accca
+https://github.com/lionking0105/EasyApplyJobsBot/assets/34207598/0de30c7e-a8ab-4fc8-8609-f401e13accca
 
 Easy Apply Jobs Bot Pro version running on Linux Chrome Browser
 
-https://github.com/wodsuz/EasyApplyJobsBot/assets/34207598/6fa36b64-742f-4fb2-8228-c15d04560f4f
+https://github.com/lionking0105/EasyApplyJobsBot/assets/34207598/6fa36b64-742f-4fb2-8228-c15d04560f4f
 
 - Two options are avalible to use this bot, either with entering password or without fully secure no credentials are stored way.
 - Export all results and offers as txt and csv (PRO FEATURE) file
@@ -26,10 +23,7 @@ https://github.com/wodsuz/EasyApplyJobsBot/assets/34207598/6fa36b64-742f-4fb2-82
 - Fully customizable job preferences (advanced filters, search filters)
 - Can be used for many job search websites such as Linkedin, Glassdoor, AngelCo, Greenhouse, Monster, GLobalLogic and Djinni.
 
-To modify, use, get documentation or for you business enquiries kindly contact us via: <br>
-[**help@automated-bots.com**](mailto:help@automated-bots.com?subject=Contact%20Via%20[GitHub]%20EasyApplyJobsBot)
 
-[**Or directly contact us from our website**](https://www.automated-bots.com/contact)<br>
 
 ## Donation and Support 🥳
 
@@ -53,7 +47,7 @@ showing how this can be used. To buy, support this project and help me add more 
 
 ## Installation 🔌
 
-- clone the repo `git clone https://github.com/wodsuz/EasyApplyJobsBot`
+- clone the repo `git clone https://github.com/lionking0105/EasyApplyJobsBot`
 - Make sure Python and pip is installed
 - Install dependencies with `pip3 install -r requirements.yaml`
 - Enter your linkedin credentials on line 8 and 9 of config.py file
@@ -216,8 +210,4 @@ We currently support the sites we sell in our shop. Please check our shop in ord
 
 - Add full support to other major job seeking websites (Glassdoor, AngelCo https://angel.co/l/2xRADV, Greenhouse, https://cryptocurrencyjobs.co/, Monster, GLobalLogic, djinni)
 
-## Special Thanks
 
-Special thanks to all the contributors who are constantly helping and keeping this repository active. Your contributions, whether they're bug reports, feature suggestions, or code improvements, are greatly appreciated. We couldn't do this without you!
-
-- Thanks a lot [@GabrielGircenko](https://github.com/GabrielGircenko) for putting his time and huge experince on this project. Please make sure to check his repo https://github.com/GabrielGircenko/EasyApplyJobsBot
